@@ -20,6 +20,9 @@
     ],
     "post-update-cmd": [
 
+    ],
+    "post-create-project-cmd": [
+      "php -v"
     ]
   },
   "config": {
