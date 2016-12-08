@@ -15,18 +15,8 @@
     }
   },
   "scripts": {
-    "post-install-cmd": [
-      "php -v"
-    ],
-    "post-update-cmd": [
-
-    ],
-    "post-create-project-cmd": [
+    "post-package-install": [
       "php -v"
     ]
-  },
-  "config": {
-    "preferred-install": "dist",
-    "secure-http": false
   }
 }
