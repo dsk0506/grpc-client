@@ -1,5 +1,5 @@
 {
-  "name": "grpc/client",
+  "name": "dsk/grpc_client",
   "description": "a php's  pojo  client",
   "minimum-stability": "dev",
   "authors": [
