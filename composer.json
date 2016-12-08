@@ -1,0 +1,17 @@
+{
+  "name": "grpc/client",
+  "description": "a php's  pojo  client",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "dingshoukun",
+      "email": "393573645@qq.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  }
+}
