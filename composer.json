@@ -13,5 +13,17 @@
     "psr-4": {
       "": "src/"
     }
+  },
+  "scripts": {
+    "post-install-cmd": [
+      "php -v"
+    ],
+    "post-update-cmd": [
+
+    ]
+  },
+  "config": {
+    "preferred-install": "dist",
+    "secure-http": false
   }
 }
